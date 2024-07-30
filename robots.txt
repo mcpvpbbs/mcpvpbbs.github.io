@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://severgo100024.w1.luyouxia.net/sitemap.xml
